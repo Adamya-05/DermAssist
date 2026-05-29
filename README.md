@@ -6,7 +6,7 @@ Due to GitHub storage limitations, datasets are not included.
 ### MRA-MIDAS
 Download from:
 https://stanford.redivis.com/datasets/dpx2-44ejgtftb
-
+for downloading this dataset you will have to signin to stanford university website and get access for this dataset.
 ### ISIC 2018
 Download from:
 https://challenge.isic-archive.com/data/
