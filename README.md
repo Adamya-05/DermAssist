@@ -1,6 +1,15 @@
-# DermAssist
 # DermAssist: Multi-Modal Skin Disease Classification using Dermoscopic and Clinical Images
+## Dataset
 
+Due to GitHub storage limitations, datasets are not included.
+
+### MRA-MIDAS
+Download from:
+https://stanford.redivis.com/datasets/dpx2-44ejgtftb
+
+### ISIC 2018
+Download from:
+https://challenge.isic-archive.com/data/
 ## Overview
 
 DermAssist is an AI-powered skin disease classification system designed to assist in the identification of various dermatological conditions using both dermoscopic and clinical images.
